@@ -51,7 +51,7 @@ The box for c52 is located higher on the plot compared to the box for c39, which
 favstats(VitC~Cult,data=veggy)
 ```
 
-
+The numerical results show that the average Vitamin C content for c39 is 51.5 with a standard deviation of 7.12 and for c52 it's 64.4 with a standard deviation of 8.46.
 
 
 
