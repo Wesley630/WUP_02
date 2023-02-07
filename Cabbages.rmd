@@ -64,6 +64,7 @@ The numerical results show that the average Vitamin C content for c39 is 51.5 wi
 t.test(VitC~Cult,data=veggy)
 ```
 
+The test results show that the average Vitamin C in the two groups of veggies, c39 and c52, is different. The average Vitamin C is higher in c52 compared to c39. This difference is very significant, with a p-value of 0.00000003405 which is less than 0.05. This means we can reject the idea that there is no difference between the two groups.
 
 # Discussion and Conclusion
 
