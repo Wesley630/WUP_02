@@ -70,5 +70,5 @@ The test results show that the average Vitamin C in the two groups of veggies, c
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+The cabbages data was analyzed to compare the Vitamin C content between two groups, c39 and c52. Results showed that the average Vitamin C content was higher in c52 (64.4) compared to c39 (51.5). A significance test was conducted and it was found that this difference was very significant, with a p-value less than 0.05. This means that we can conclude that there is a difference in Vitamin C content between the two cultivation methods
 
